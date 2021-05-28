@@ -1,0 +1,23 @@
+.pagebtns {
+    margin: 0 auto 0 auto;
+    display: block;
+    width: 520px;
+    padding: 15px;
+    background-color: #101010;
+    border: white 1px solid;
+    border-radius: 30px;
+}
+
+.pagebtns a {
+    font-size: 5px;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    width: auto;
+    text-align: center;
+    text-decoration: none;
+    border: solid 1px #aaaaaa;
+    border-radius: 30px;
+    padding: 6px;
+    background-color: #202020;
+}
